@@ -1,34 +1,5 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Hoptune 
-Hoptune
-/
-igrm_obsdata
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-igrm_obsdata/.gitignore
-@Hoptune
-Hoptune Initial commit
-Latest commit 1f01b07 11 minutes ago
- History
- 1 contributor
-129 lines (105 sloc)  1.76 KB
- 
+*tar.gz
+*zip 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
