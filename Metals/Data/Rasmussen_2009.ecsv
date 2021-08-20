@@ -1,0 +1,33 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: Group, datatype: string}
+# - {name: Tx, unit: keV, datatype: float64}
+# - {name: Tx_lerr, unit: keV, datatype: float64}
+# - {name: Tx_uerr, unit: keV, datatype: float64}
+# - {name: Mgas, unit: 1e+12 solMass, datatype: float64}
+# - {name: Mgas_lerr, unit: 1e+12 solMass, datatype: float64}
+# - {name: Mgas_uerr, unit: 1e+12 solMass, datatype: float64}
+# - {name: Mfe, unit: 1e+08 solMass, datatype: float64}
+# - {name: Mfe_lerr, unit: 1e+08 solMass, datatype: float64}
+# - {name: Mfe_uerr, unit: 1e+08 solMass, datatype: float64}
+# - {name: Msi, unit: 1e+08 solMass, datatype: float64}
+# - {name: Msi_lerr, unit: 1e+08 solMass, datatype: float64}
+# - {name: Msi_uerr, unit: 1e+08 solMass, datatype: float64}
+# schema: astropy-2.0
+Group Tx Tx_lerr Tx_uerr Mgas Mgas_lerr Mgas_uerr Mfe Mfe_lerr Mfe_uerr Msi Msi_lerr Msi_uerr
+NGC\,383 1.65 -0.06 0.04 5.4 -0.1 0.1 18.4 -4.7 4.7 21.2 -7.9 7.9
+NGC\,507 1.3 -0.03 0.03 3.9 -0.2 0.2 14.4 -3.9 3.9 16.4 -6.3 6.3
+NGC\,533 1.22 -0.05 0.05 2.3 -0.1 0.1 5.0 -1.4 1.4 6.2 -2.7 2.7
+NGC\,741 1.42 -0.12 0.14 2.7 -0.1 0.1 3.5 -1.3 1.3 11.9 -3.8 3.8
+NGC\,1407 1.01 -0.09 0.07 0.7 -0.1 0.1 1.7 -0.3 0.3 2.0 -0.6 0.6
+NGC\,2300 0.78 -0.03 0.04 1.2 -0.4 0.4 2.8 -1.0 1.0 3.8 -1.8 1.8
+HCG\,42 0.8 -0.05 0.05 0.6 -0.1 0.1 1.2 -0.4 0.4 1.3 -0.6 0.6
+MKW\,4 1.78 -0.09 0.07 7.0 -0.2 0.2 22.3 -6.6 6.6 19.7 -9.7 9.7
+NGC\,4125 0.33 -0.05 0.12 0.2 -0.1 0.1 0.4 -0.1 0.1 0.6 -0.3 0.3
+NGC\,4325 0.99 -0.02 0.02 1.8 -0.1 0.1 4.3 -1.4 1.4 2.8 -1.5 1.5
+HCG\,62 1.0 -0.03 0.03 3.1 -0.1 0.1 5.3 -1.4 1.4 10.7 -3.5 3.5
+NGC\,5044 1.12 -0.03 0.03 2.3 -0.1 0.1 6.3 -1.5 1.5 6.6 -2.0 2.0
+NGC\,5846 0.66 -0.03 0.04 0.9 -0.1 0.1 2.1 -0.4 0.4 2.6 -0.8 0.8
+NGC\,6338 2.13 -0.07 0.19 9.4 -0.3 0.3 22.6 -10.2 10.2 34.6 -14.7 14.7
+NGC\,7619 1.06 -0.03 0.07 1.5 -0.1 0.1 3.2 -0.7 0.7 3.2 -1.2 1.2
